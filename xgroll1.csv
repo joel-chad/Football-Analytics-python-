@@ -1,0 +1,144 @@
+Date,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss
+2018-08-12,Matchweek 1,Sun,Away,W,2,0,Arsenal,1.8,0.6,57
+2018-08-19,Matchweek 2,Sun,Home,W,6,1,Huddersfield,3.4,0.6,77
+2018-08-25,Matchweek 3,Sat,Away,D,1,1,Wolves,1.5,1.1,71
+2018-09-01,Matchweek 4,Sat,Home,W,2,1,Newcastle Utd,2.6,0.7,78
+2018-09-15,Matchweek 5,Sat,Home,W,3,0,Fulham,4.1,0.3,64
+2018-09-22,Matchweek 6,Sat,Away,W,5,0,Cardiff City,2.5,0.1,78
+2018-09-29,Matchweek 7,Sat,Home,W,2,0,Brighton,3,0.5,79
+2018-10-07,Matchweek 8,Sun,Away,D,0,0,Liverpool,1.2,0.4,51
+2018-10-20,Matchweek 9,Sat,Home,W,5,0,Burnley,4.1,0.4,69
+2018-10-29,Matchweek 10,Mon,Away,W,1,0,Tottenham,1.5,0.7,51
+2018-11-04,Matchweek 11,Sun,Home,W,6,1,Southampton,2.4,1.8,67
+2018-11-11,Matchweek 12,Sun,Home,W,3,1,Manchester Utd,1.6,0.9,64
+2018-11-24,Matchweek 13,Sat,Away,W,4,0,West Ham,2.3,0.8,69
+2018-12-01,Matchweek 14,Sat,Home,W,3,1,Bournemouth,2.5,0.4,71
+2018-12-04,Matchweek 15,Tue,Away,W,2,1,Watford,2.2,1.4,69
+2018-12-08,Matchweek 16,Sat,Away,L,0,2,Chelsea,1.4,0.9,61
+2018-12-15,Matchweek 17,Sat,Home,W,3,1,Everton,1.4,1.1,66
+2018-12-22,Matchweek 18,Sat,Home,L,2,3,Crystal Palace,1.4,0.9,77
+2018-12-26,Matchweek 19,Wed,Away,L,1,2,Leicester City,1.3,1.3,65
+2018-12-30,Matchweek 20,Sun,Away,W,3,1,Southampton,3.1,0.4,76
+2019-01-03,Matchweek 21,Thu,Home,W,2,1,Liverpool,0.8,1.8,50
+2019-01-14,Matchweek 22,Mon,Home,W,3,0,Wolves,3,0,75
+2019-01-20,Matchweek 23,Sun,Away,W,3,0,Huddersfield,2.3,0.5,66
+2019-01-29,Matchweek 24,Tue,Away,L,1,2,Newcastle Utd,1.3,1.2,76
+2019-02-03,Matchweek 25,Sun,Home,W,3,1,Arsenal,3.2,0.8,59
+2019-02-06,Matchweek 27,Wed,Away,W,2,0,Everton,2.4,0.1,61
+2019-02-10,Matchweek 26,Sun,Home,W,6,0,Chelsea,3.1,0.9,56
+2019-02-27,Matchweek 28,Wed,Home,W,1,0,West Ham,3,0.5,75
+2019-03-02,Matchweek 29,Sat,Away,W,1,0,Bournemouth,1.6,0,80
+2019-03-09,Matchweek 30,Sat,Home,W,3,1,Watford,3.2,0.5,71
+2019-03-30,Matchweek 32,Sat,Away,W,2,0,Fulham,2.7,0.3,65
+2019-04-03,Matchweek 33,Wed,Home,W,2,0,Cardiff City,2.9,0.1,79
+2019-04-14,Matchweek 34,Sun,Away,W,3,1,Crystal Palace,2,0.3,73
+2019-04-20,Matchweek 35,Sat,Home,W,1,0,Tottenham,1.9,1.3,61
+2019-04-24,Matchweek 31,Wed,Away,W,2,0,Manchester Utd,0.5,0.7,63
+2019-04-28,Matchweek 36,Sun,Away,W,1,0,Burnley,2.4,0.1,67
+2019-05-06,Matchweek 37,Mon,Home,W,1,0,Leicester City,1.3,0.6,60
+2019-05-12,Matchweek 38,Sun,Away,W,4,1,Brighton,1.8,0.4,75
+2019-08-10,Matchweek 1,Sat,Away,W,5,0,West Ham,3.1,0.8,57
+2019-08-17,Matchweek 2,Sat,Home,D,2,2,Tottenham,2.9,0.3,56
+2019-08-25,Matchweek 3,Sun,Away,W,3,1,Bournemouth,2.3,1.5,74
+2019-08-31,Matchweek 4,Sat,Home,W,4,0,Brighton,2.1,0.5,54
+2019-09-14,Matchweek 5,Sat,Away,L,2,3,Norwich City,2.2,1.5,69
+2019-09-21,Matchweek 6,Sat,Home,W,8,0,Watford,5.8,0.3,68
+2019-09-28,Matchweek 7,Sat,Away,W,3,1,Everton,3.5,2.5,63
+2019-10-06,Matchweek 8,Sun,Home,L,0,2,Wolves,1.3,1.6,77
+2019-10-19,Matchweek 9,Sat,Away,W,2,0,Crystal Palace,2.2,0.5,71
+2019-10-26,Matchweek 10,Sat,Home,W,3,0,Aston Villa,2.4,0.9,64
+2019-11-02,Matchweek 11,Sat,Home,W,2,1,Southampton,3.1,0.7,75
+2019-11-10,Matchweek 12,Sun,Away,L,1,3,Liverpool,1.3,1,55
+2019-11-23,Matchweek 13,Sat,Home,W,2,1,Chelsea,1.1,1.1,47
+2019-11-30,Matchweek 14,Sat,Away,D,2,2,Newcastle Utd,2.6,0.3,76
+2019-12-03,Matchweek 15,Tue,Away,W,4,1,Burnley,1.8,0.5,75
+2019-12-07,Matchweek 16,Sat,Home,L,1,2,Manchester Utd,2,1.6,71
+2019-12-15,Matchweek 17,Sun,Away,W,3,0,Arsenal,1.8,0.4,58
+2019-12-21,Matchweek 18,Sat,Home,W,3,1,Leicester City,3.4,1,62
+2019-12-27,Matchweek 19,Fri,Away,L,2,3,Wolves,1.6,1.8,38
+2019-12-29,Matchweek 20,Sun,Home,W,2,0,Sheffield Utd,1.1,1.1,71
+2020-01-01,Matchweek 21,Wed,Home,W,2,1,Everton,1.6,1.2,65
+2020-01-12,Matchweek 22,Sun,Away,W,6,1,Aston Villa,2.5,1,70
+2020-01-18,Matchweek 23,Sat,Home,D,2,2,Crystal Palace,2.1,0.5,73
+2020-01-21,Matchweek 24,Tue,Away,W,1,0,Sheffield Utd,2.9,0.8,67
+2020-02-02,Matchweek 25,Sun,Away,L,0,2,Tottenham,3,0.3,67
+2020-02-19,Matchweek 26,Wed,Home,W,2,0,West Ham,2.2,0.1,78
+2020-02-22,Matchweek 27,Sat,Away,W,1,0,Leicester City,2.2,1.1,67
+2020-03-08,Matchweek 29,Sun,Away,L,0,2,Manchester Utd,0.6,1.4,72
+2020-06-17,Matchweek 28,Wed,Home,W,3,0,Arsenal,3.3,0.2,67
+2020-06-22,Matchweek 30,Mon,Home,W,5,0,Burnley,3,0,71
+2020-06-25,Matchweek 31,Thu,Away,L,1,2,Chelsea,0.5,3.1,65
+2020-07-02,Matchweek 32,Thu,Home,W,4,0,Liverpool,2.7,1.3,48
+2020-07-05,Matchweek 33,Sun,Away,L,0,1,Southampton,2.9,0.8,72
+2020-07-08,Matchweek 34,Wed,Home,W,5,0,Newcastle Utd,3.3,0.2,74
+2020-07-11,Matchweek 35,Sat,Away,W,5,0,Brighton,5,0.1,70
+2020-07-15,Matchweek 36,Wed,Home,W,2,1,Bournemouth,0.8,1.7,71
+2020-07-21,Matchweek 37,Tue,Away,W,4,0,Watford,3.5,0.1,75
+2020-07-26,Matchweek 38,Sun,Home,W,5,0,Norwich City,3.2,1.1,73
+2020-09-21,Matchweek 2,Mon,Away,W,3,1,Wolves,1.9,1,65
+2020-09-27,Matchweek 3,Sun,Home,L,2,5,Leicester City,0.9,2.6,72
+2020-10-03,Matchweek 4,Sat,Away,D,1,1,Leeds United,1.5,1.7,48
+2020-10-17,Matchweek 5,Sat,Home,W,1,0,Arsenal,1.5,0.9,59
+2020-10-24,Matchweek 6,Sat,Away,D,1,1,West Ham,1.1,0.5,70
+2020-10-31,Matchweek 7,Sat,Away,W,1,0,Sheffield Utd,1.5,0.5,64
+2020-11-08,Matchweek 8,Sun,Home,D,1,1,Liverpool,1.6,1.4,54
+2020-11-21,Matchweek 9,Sat,Away,L,0,2,Tottenham,1.3,0.7,67
+2020-11-28,Matchweek 10,Sat,Home,W,5,0,Burnley,2.8,0.4,68
+2020-12-05,Matchweek 11,Sat,Home,W,2,0,Fulham,3,0.2,69
+2020-12-12,Matchweek 12,Sat,Away,D,0,0,Manchester Utd,1.2,1,54
+2020-12-15,Matchweek 13,Tue,Home,D,1,1,West Brom,1.9,0.3,77
+2020-12-19,Matchweek 14,Sat,Away,W,1,0,Southampton,1.1,1,52
+2020-12-26,Matchweek 15,Sat,Home,W,2,0,Newcastle Utd,1.8,0.3,75
+2021-01-03,Matchweek 17,Sun,Away,W,3,1,Chelsea,2.4,0.8,46
+2021-01-13,Matchweek 18,Wed,Home,W,1,0,Brighton,2.6,0.2,65
+2021-01-17,Matchweek 19,Sun,Home,W,4,0,Crystal Palace,0.9,0,72
+2021-01-20,Matchweek 1,Wed,Home,W,2,0,Aston Villa,4.3,0.8,68
+2021-01-26,Matchweek 20,Tue,Away,W,5,0,West Brom,2,0.4,77
+2021-01-30,Matchweek 21,Sat,Home,W,1,0,Sheffield Utd,1.2,0.2,74
+2021-02-03,Matchweek 22,Wed,Away,W,2,0,Burnley,2.6,0.1,74
+2021-02-07,Matchweek 23,Sun,Away,W,4,1,Liverpool,3.1,1.3,44
+2021-02-13,Matchweek 24,Sat,Home,W,3,0,Tottenham,2.9,0.6,61
+2021-02-17,Matchweek 16,Wed,Away,W,3,1,Everton,1.5,1,71
+2021-02-21,Matchweek 25,Sun,Away,W,1,0,Arsenal,2,0.3,56
+2021-02-27,Matchweek 26,Sat,Home,W,2,1,West Ham,0.6,1.6,63
+2021-03-02,Matchweek 29,Tue,Home,W,4,1,Wolves,2.3,0.4,73
+2021-03-07,Matchweek 27,Sun,Home,L,0,2,Manchester Utd,1.5,1.6,66
+2021-03-10,Matchweek 33,Wed,Home,W,5,2,Southampton,2.7,1.8,57
+2021-03-13,Matchweek 28,Sat,Away,W,3,0,Fulham,2.3,0.3,54
+2021-04-03,Matchweek 30,Sat,Away,W,2,0,Leicester City,2.3,0.4,56
+2021-04-10,Matchweek 31,Sat,Home,L,1,2,Leeds United,2.4,0.3,71
+2021-04-21,Matchweek 32,Wed,Away,W,2,1,Aston Villa,1.4,0.7,71
+2021-05-01,Matchweek 34,Sat,Away,W,2,0,Crystal Palace,2.1,0.8,67
+2021-05-08,Matchweek 35,Sat,Home,L,1,2,Chelsea,2.2,0.8,49
+2021-05-14,Matchweek 36,Fri,Away,W,4,3,Newcastle Utd,1.3,2.2,82
+2021-05-18,Matchweek 37,Tue,Away,L,2,3,Brighton,1,1.4,37
+2021-05-23,Matchweek 38,Sun,Home,W,5,0,Everton,2.6,1.2,68
+2021-08-15,Matchweek 1,Sun,Away,L,0,1,Tottenham,1.9,1.3,64
+2021-08-21,Matchweek 2,Sat,Home,W,5,0,Norwich City,2.7,0.1,67
+2021-08-28,Matchweek 3,Sat,Home,W,5,0,Arsenal,3.8,0.1,80
+2021-09-11,Matchweek 4,Sat,Away,W,1,0,Leicester City,2.9,0.8,61
+2021-09-18,Matchweek 5,Sat,Home,D,0,0,Southampton,1.1,0.4,63
+2021-09-25,Matchweek 6,Sat,Away,W,1,0,Chelsea,1.7,0.3,60
+2021-10-03,Matchweek 7,Sun,Away,D,2,2,Liverpool,1.2,1,51
+2021-10-16,Matchweek 8,Sat,Home,W,2,0,Burnley,1.9,1,69
+2021-10-23,Matchweek 9,Sat,Away,W,4,1,Brighton,3.9,1.3,52
+2021-10-30,Matchweek 10,Sat,Home,L,0,2,Crystal Palace,1.1,1.1,68
+2021-11-06,Matchweek 11,Sat,Away,W,2,0,Manchester Utd,2,0.6,67
+2021-11-21,Matchweek 12,Sun,Home,W,3,0,Everton,2.3,0.3,76
+2021-11-28,Matchweek 13,Sun,Home,W,2,1,West Ham,2.1,0.2,67
+2021-12-01,Matchweek 14,Wed,Away,W,2,1,Aston Villa,0.9,0.9,64
+2021-12-04,Matchweek 15,Sat,Away,W,3,1,Watford,3.6,0.7,76
+2021-12-11,Matchweek 16,Sat,Home,W,1,0,Wolves,3.5,0.2,71
+2021-12-14,Matchweek 17,Tue,Home,W,7,0,Leeds United,3.6,0.2,64
+2021-12-19,Matchweek 18,Sun,Away,W,4,0,Newcastle Utd,3.1,0.4,71
+2021-12-26,Matchweek 19,Sun,Home,W,6,3,Leicester City,3.4,2.4,72
+2021-12-29,Matchweek 20,Wed,Away,W,1,0,Brentford,0.8,0.3,76
+2022-01-01,Matchweek 21,Sat,Away,W,2,1,Arsenal,1.8,1,70
+2022-01-15,Matchweek 22,Sat,Home,W,1,0,Chelsea,0.7,0.5,56
+2022-01-22,Matchweek 23,Sat,Away,D,1,1,Southampton,1.6,1.1,73
+2022-02-09,Matchweek 24,Wed,Home,W,2,0,Brentford,2,0.7,75
+2022-02-12,Matchweek 25,Sat,Away,W,4,0,Norwich City,4.6,0.5,72
+2022-02-19,Matchweek 26,Sat,Home,L,2,3,Tottenham,2.1,1.8,71
+2022-02-26,Matchweek 27,Sat,Away,W,1,0,Everton,1.6,0.8,67
+2022-03-06,Matchweek 28,Sun,Home,W,4,1,Manchester Utd,2.7,0.5,69
+2022-03-14,Matchweek 29,Mon,Away,D,0,0,Crystal Palace,2.3,0.8,74
